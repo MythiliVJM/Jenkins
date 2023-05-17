@@ -4,7 +4,7 @@ package org.example;
 // then press Enter. You can now see whitespace characters in your code.
 public class HelloWorld {
     public static String sayHello() {
-        return "Helloo, Jenkins!";
+        return "Hello, Jenkins!";
     }
 
     public static void main(String[] args) {
